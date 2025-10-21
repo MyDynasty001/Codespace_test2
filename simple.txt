@@ -1,0 +1,4 @@
+This is a simple text file.
+
+This file was created as requested.
+It contains basic text content.
